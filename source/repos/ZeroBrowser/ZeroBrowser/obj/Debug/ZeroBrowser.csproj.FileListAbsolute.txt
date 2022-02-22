@@ -1,0 +1,11 @@
+C:\Users\practicante.sistemas\source\repos\ZeroBrowser\ZeroBrowser\bin\Debug\ZeroBrowser.exe.config
+C:\Users\practicante.sistemas\source\repos\ZeroBrowser\ZeroBrowser\bin\Debug\ZeroBrowser.exe
+C:\Users\practicante.sistemas\source\repos\ZeroBrowser\ZeroBrowser\bin\Debug\ZeroBrowser.pdb
+C:\Users\practicante.sistemas\source\repos\ZeroBrowser\ZeroBrowser\obj\Debug\ZeroBrowser.csproj.AssemblyReference.cache
+C:\Users\practicante.sistemas\source\repos\ZeroBrowser\ZeroBrowser\obj\Debug\ZeroBrowser.csproj.SuggestedBindingRedirects.cache
+C:\Users\practicante.sistemas\source\repos\ZeroBrowser\ZeroBrowser\obj\Debug\ZeroBrowser.Form1.resources
+C:\Users\practicante.sistemas\source\repos\ZeroBrowser\ZeroBrowser\obj\Debug\ZeroBrowser.Properties.Resources.resources
+C:\Users\practicante.sistemas\source\repos\ZeroBrowser\ZeroBrowser\obj\Debug\ZeroBrowser.csproj.GenerateResource.cache
+C:\Users\practicante.sistemas\source\repos\ZeroBrowser\ZeroBrowser\obj\Debug\ZeroBrowser.csproj.CoreCompileInputs.cache
+C:\Users\practicante.sistemas\source\repos\ZeroBrowser\ZeroBrowser\obj\Debug\ZeroBrowser.exe
+C:\Users\practicante.sistemas\source\repos\ZeroBrowser\ZeroBrowser\obj\Debug\ZeroBrowser.pdb
